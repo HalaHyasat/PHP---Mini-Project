@@ -7,7 +7,7 @@ array (
         "birthday" => "14.Mar.2002",
         "github account" => "https://github.com/oca-class-b",
         "linkedin" => "https://www.linkedin.com/in/adam-abusamra/",
-        "image" => "https://media-exp1.licdn.com/dms/image/C4E35AQFpbIJtU2LaaA/profile-framedphoto-shrink_400_400/0/1610946816372?e=1611334800&v=beta&t=YPiVcmlqO3vMvJ7W_pHKGgCcZy4NrdadQk-V0jV76lM",
+        "image" => "https://media-exp1.licdn.com/dms/image/C4E35AQFpbIJtU2LaaA/profile-framedphoto-shrink_400_400/0/1610946816372?e=1611561600&v=beta&t=-o6lSeCQ_DAqqNjhQ7hlnTzA74JA618J9nJoY2oS4II",
         "projects" => array (
                                 [ "project_name" => "HTML and CSS", "is_compleated" => "yes", ],
                                 ["project_name" => "Wordpress", "is_compleated" => "no" ]
@@ -133,7 +133,7 @@ array (
             "birthday" => "20.Aug.1992",
             "github account" => "https://github.com/oca-class-b",
             "linkedin" => "https://www.linkedin.com/in/leen-awad/",
-            "image" => "https://media-exp1.licdn.com/dms/image/C4E35AQEIVkoUWgLFvw/profile-framedphoto-shrink_400_400/0/1597096649541?e=1611334800&v=beta&t=_ixC9x3f0keeWEk1kZ-8IUvvT8lgUYCudhm2UkYVSYw",
+            "image" => "https://media-exp1.licdn.com/dms/image/C4E35AQEIVkoUWgLFvw/profile-framedphoto-shrink_400_400/0/1597096649541?e=1611561600&v=beta&t=RQ3-q7NLa4JgpeujDAnwRIita7MRzMERCe7OjvczfHo",
             "projects" => array (
                                     [ "project_name" => "HTML and CSS", "is_compleated" => "yes", ],
                                     ["project_name" => "Wordpress", "is_compleated" => "no" ]
